@@ -1,6 +1,10 @@
 # HR-Analytics-Project
 # HR Analytics Dashboard
 
+<p align="center">
+  <img src="Screenshot%20HR%20analytics%20dashboard.png" alt="HR Analytics Dashboard" width="1000"/>
+</p>
+
 ## Project Overview
 Employee retention and workforce management have become critical challenges for organizations. Human Resource departments need data-driven insights to understand employee behavior, reduce attrition, improve employee satisfaction, and support strategic workforce planning.
 
