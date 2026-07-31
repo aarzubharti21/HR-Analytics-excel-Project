@@ -1,18 +1,17 @@
-# HR-Analytics-Project
 # HR Analytics Dashboard
 
 <p align="center">
   <img src="Screenshot%20HR%20analytics%20dashboard.png" alt="HR Analytics Dashboard" width="1000"/>
 </p>
 
-## Project Overview
+# Project Overview
 Employee retention and workforce management have become critical challenges for organizations. Human Resource departments need data-driven insights to understand employee behavior, reduce attrition, improve employee satisfaction, and support strategic workforce planning.
 
 This project presents an interactive HR Analytics Dashboard developed in Microsoft Excel using a real-world HR dataset. The dashboard converts raw employee data into meaningful insights through dynamic visualizations, KPIs, Pivot Tables, and interactive slicers.
 
 The primary objective of this project is to help HR managers identify factors contributing to employee attrition, evaluate workforce demographics, monitor employee performance, and make informed business decisions.
 
-## Business Problem
+# Business Problem
 Organizations often struggle to answer important workforce-related questions such as:
 
 - Why are employees leaving the organization?
@@ -33,7 +32,8 @@ Without proper analysis, these questions become difficult to answer, leading to 
 
 This dashboard addresses these challenges by transforming HR data into actionable business insights.
 
-## Dataset Information
+# Dataset Information
+
 **Dataset Name** :
 HR Analytics Final Dataset
 
@@ -48,7 +48,7 @@ Employee Workforce Data
 
 The dataset contains employee-related information including demographic details, education, salary, job role, department, experience, performance, and attrition status.
 
-## Dataset Features
+# Dataset Features
 The dataset includes information such as:
 
 - Employee ID
@@ -103,7 +103,7 @@ The dataset includes information such as:
   
 - Monthly Rate
 
-## Project Objectives
+# Project Objectives
 The objectives of this project are:
 
 - Analyze employee attrition across the organization.
@@ -122,7 +122,7 @@ The objectives of this project are:
   
 - Build an interactive HR dashboard for decision-making.
 
-## Tools Used
+# Tools Used
 The dashboard was developed using:
 
 - Microsoft Excel
@@ -141,7 +141,7 @@ The dashboard was developed using:
   
 - Dashboard Design Principles
 
-## Data Preparation
+# Data Preparation
 - Data cleaning
   
 - Missing value handling
@@ -150,7 +150,7 @@ The dashboard was developed using:
   
 - Data formatting
 
-## Data Analysis
+# Data Analysis
 - Pivot Tables
   
 - Pivot Charts
@@ -163,7 +163,7 @@ The dashboard was developed using:
   
 - Percentage calculations
 
-## Dashboard Development
+# Dashboard Development
 - KPI Cards
   
 - Interactive Slicers
@@ -172,7 +172,7 @@ The dashboard was developed using:
   
 - Professional Layout Design
 
-## Business Analytics
+# Business Analytics
 - Attrition Analysis
   
 - Workforce Analysis
@@ -185,7 +185,7 @@ The dashboard was developed using:
   
 - Employee Retention Analysis
 
-## Dashboard KPIs
+# Dashboard KPIs
 The dashboard summarizes key HR performance indicators including:
 **Total Employees**
 
@@ -207,7 +207,7 @@ The dashboard summarizes key HR performance indicators including:
 
 These KPIs provide a quick overview of workforce health and organizational performance.
 
-## Dashboard Features
+# Dashboard Features
 The dashboard is fully interactive and allows users to filter results using slicers.
 Users can analyze employee information based on:
 - Department
@@ -271,7 +271,7 @@ These indicators help assess overall employee engagement.
 Compare employee performance ratings across departments and job roles.
 This enables HR managers to understand workforce productivity and recognize high-performing employee groups.
 
-## Business Insights
+# Business Insights
 The dashboard helps answer business questions including:
 - Which department has the highest attrition?
   
@@ -289,7 +289,7 @@ The dashboard helps answer business questions including:
   
 - Which workforce segments require HR intervention?
 
-## Business Value
+# Business Value
 This dashboard supports HR teams by helping them:
 - Reduce employee attrition
   
@@ -307,7 +307,7 @@ This dashboard supports HR teams by helping them:
   
 - Enable data-driven decision-making
 
-## Conclusion
+# Conclusion
 This project demonstrates how Microsoft Excel can be effectively used to solve real-world HR business problems. Through data cleaning, interactive dashboards, Pivot Tables, KPI reporting, and business analysis, the project transforms employee data into meaningful insights that support workforce planning and strategic HR decision-making.
 
 The dashboard showcases practical skills in HR Analytics, Business Analytics, Data Visualization, and Microsoft Excel, making it relevant for Business Analyst, HR Analyst, and Data Analyst roles.
