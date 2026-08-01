@@ -1,10 +1,7 @@
-# HR Analytics Dashboard
-
-<p align="center">
-  <img src="Screenshot%20HR%20analytics%20dashboard.png" alt="HR Analytics Dashboard" width="1000"/>
-</p>
+# HR Analytics Project
 
 # Project Overview
+
 Employee retention and workforce management have become critical challenges for organizations. Human Resource departments need data-driven insights to understand employee behavior, reduce attrition, improve employee satisfaction, and support strategic workforce planning.
 
 This project presents an interactive HR Analytics Dashboard developed in Microsoft Excel using a real-world HR dataset. The dashboard converts raw employee data into meaningful insights through dynamic visualizations, KPIs, Pivot Tables, and interactive slicers.
@@ -12,6 +9,7 @@ This project presents an interactive HR Analytics Dashboard developed in Microso
 The primary objective of this project is to help HR managers identify factors contributing to employee attrition, evaluate workforce demographics, monitor employee performance, and make informed business decisions.
 
 # Business Problem
+
 Organizations often struggle to answer important workforce-related questions such as:
 
 - Why are employees leaving the organization?
@@ -34,21 +32,18 @@ This dashboard addresses these challenges by transforming HR data into actionabl
 
 # Dataset Information
 
-**Dataset Name** :
-HR Analytics Final Dataset
+1.**Dataset Name** :HR Analytics Final Dataset
 
-**Domain** :
-Human Resource Analytics
+2.**Domain** :Human Resource Analytics
 
-**File Format** :
-Microsoft Excel (.xlsx)
+3.**File Format** :Microsoft Excel (.xlsx)
 
-**Dataset Type** :
-Employee Workforce Data
+4.**Dataset Type** :Employee Workforce Data
 
 The dataset contains employee-related information including demographic details, education, salary, job role, department, experience, performance, and attrition status.
 
 # Dataset Features
+
 The dataset includes information such as:
 
 - Employee ID
@@ -104,6 +99,7 @@ The dataset includes information such as:
 - Monthly Rate
 
 # Project Objectives
+
 The objectives of this project are:
 
 - Analyze employee attrition across the organization.
@@ -123,6 +119,7 @@ The objectives of this project are:
 - Build an interactive HR dashboard for decision-making.
 
 # Tools Used
+
 The dashboard was developed using:
 
 - Microsoft Excel
@@ -142,6 +139,7 @@ The dashboard was developed using:
 - Dashboard Design Principles
 
 # Data Preparation
+
 - Data cleaning
   
 - Missing value handling
@@ -151,6 +149,7 @@ The dashboard was developed using:
 - Data formatting
 
 # Data Analysis
+
 - Pivot Tables
   
 - Pivot Charts
@@ -164,6 +163,7 @@ The dashboard was developed using:
 - Percentage calculations
 
 # Dashboard Development
+
 - KPI Cards
   
 - Interactive Slicers
@@ -186,30 +186,34 @@ The dashboard was developed using:
 - Employee Retention Analysis
 
 # Dashboard KPIs
+
 The dashboard summarizes key HR performance indicators including:
-**Total Employees**
 
-**Total Attrition**
+1.**Total Employees**
 
-**Attrition Rate**
+2.**Total Attrition**
 
-**Active Employees**
+3.**Attrition Rate**
 
-**Average Age**
+4.**Active Employees**
 
-**Average Monthly Income**
+5.**Average Age**
 
-**Average Years at Company**
+6.**Average Monthly Income**
 
-**Average Job Satisfaction**
+7.**Average Years at Company**
 
-**Average Performance Rating**
+8.**Average Job Satisfaction**
+
+9.**Average Performance Rating**
 
 These KPIs provide a quick overview of workforce health and organizational performance.
 
 # Dashboard Features
+
 The dashboard is fully interactive and allows users to filter results using slicers.
 Users can analyze employee information based on:
+
 - Department
   
 - Gender
@@ -228,35 +232,44 @@ Users can analyze employee information based on:
 
 Interactive filtering enables quick business analysis without modifying the underlying dataset.
 
-## Dashboard Analysis
+1.**Dashboard Analysis**
+
 The dashboard provides answers to several important HR business questions.
 
-## Employee Attrition Analysis
+2.**Employee Attrition Analysis**
+
 Analyze employee resignations across different departments, job roles, education backgrounds, and salary levels.
 This helps HR teams identify the primary causes of employee turnover.
 
-## Department Analysis
+3.**Department Analysis**
+
 Compare workforce distribution and attrition across various departments.
 This enables management to identify departments requiring retention strategies.
 
-## Job Role Analysis
+4.**Job Role Analysis**
+
 Evaluate employee count and attrition across different job roles.
 This helps identify positions experiencing higher turnover.
 
-## Salary Analysis
+5.**Salary Analysis**
+
 Study the relationship between employee income and attrition.
 The analysis helps determine whether compensation influences employee retention.
 
-## Age Group Analysis
+6.**Age Group Analysis**
+
 Understand workforce distribution across different age groups.
 This analysis identifies age categories with higher resignation rates.
 
-## Education Analysis
+7.**Education Analysis**
+
 Compare employee attrition across different education fields and education levels.
 This provides insights into workforce qualifications and retention patterns.
 
-## Employee Satisfaction Analysis
+**Employee Satisfaction Analysis**
+
 Evaluate employee satisfaction using metrics such as:
+
 - Job Satisfaction
   
 - Environment Satisfaction
@@ -267,12 +280,15 @@ Evaluate employee satisfaction using metrics such as:
   
 These indicators help assess overall employee engagement.
 
-## Performance Analysis
+**Performance Analysis**
+
 Compare employee performance ratings across departments and job roles.
 This enables HR managers to understand workforce productivity and recognize high-performing employee groups.
 
 # Business Insights
+
 The dashboard helps answer business questions including:
+
 - Which department has the highest attrition?
   
 - Which job role experiences maximum employee turnover?
@@ -290,7 +306,9 @@ The dashboard helps answer business questions including:
 - Which workforce segments require HR intervention?
 
 # Business Value
+
 This dashboard supports HR teams by helping them:
+
 - Reduce employee attrition
   
 - Improve employee retention strategies
