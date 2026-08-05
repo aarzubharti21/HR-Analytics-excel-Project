@@ -1,335 +1,73 @@
 # HR Analytics Project
 
-# Project Overview
-
-Employee retention and workforce management have become critical challenges for organizations. Human Resource departments need data-driven insights to understand employee behavior, reduce attrition, improve employee satisfaction, and support strategic workforce planning.
-
-This project presents an interactive HR Analytics Dashboard developed in Microsoft Excel using a real-world HR dataset. The dashboard converts raw employee data into meaningful insights through dynamic visualizations, KPIs, Pivot Tables, and interactive slicers.
-
-The primary objective of this project is to help HR managers identify factors contributing to employee attrition, evaluate workforce demographics, monitor employee performance, and make informed business decisions.
-
-# Business Problem
-
-Organizations often struggle to answer important workforce-related questions such as:
-
-- Why are employees leaving the organization?
-  
-- Which departments have the highest attrition?
-  
-- Which age groups are most likely to resign?
-  
-- Does salary influence employee retention?
-  
-- Which job roles experience higher turnover?
-  
-- How does education background affect attrition?
-  
-- Which employee groups require immediate attention?
-
-Without proper analysis, these questions become difficult to answer, leading to increased hiring costs, reduced productivity, and poor workforce planning.
-
-This dashboard addresses these challenges by transforming HR data into actionable business insights.
-
-# Dataset Information
-
-1.**Dataset Name** :HR Analytics Final Dataset
-
-2.**Domain** :Human Resource Analytics
-
-3.**File Format** :Microsoft Excel (.xlsx)
-
-4.**Dataset Type** :Employee Workforce Data
-
-The dataset contains employee-related information including demographic details, education, salary, job role, department, experience, performance, and attrition status.
-
-# Dataset Features
-
-The dataset includes information such as:
-
-- Employee ID
-  
-- Age
-  
-- Gender
-  
-- Department
-  
-- Job Role
-  
-- Education Field
-  
-- Education Level
-  
-- Monthly Income
-  
-- Job Satisfaction
-  
-- Environment Satisfaction
-  
-- Performance Rating
-  
-- Work Life Balance
-  
-- Years at Company
-  
-- Total Working Years
-  
-- Years Since Last Promotion
-  
-- Marital Status
-  
-- Business Travel
-  
-- Overtime
-  
-- Attrition
-  
-- Distance From Home
-  
-- Training Times Last Year
-  
-- Job Involvement
-  
-- Stock Option Level
-  
-- Hourly Rate
-  
-- Daily Rate
-  
-- Monthly Rate
-
-# Project Objectives
-
-The objectives of this project are:
-
-- Analyze employee attrition across the organization.
-  
-- Understand workforce demographics.
-  
-- Identify departments with high employee turnover.
-
-- Compare attrition across different job roles.
-  
-- Analyze salary distribution among employees.
-  
-- Study employee satisfaction and work-life balance.
-
-- Identify factors affecting employee retention.
-  
-- Build an interactive HR dashboard for decision-making.
-
-# Tools Used
-
-The dashboard was developed using:
-
-- Microsoft Excel
-  
-- Pivot Tables
-  
-- Pivot Charts
-  
-- Slicers
-  
-- Conditional Formatting
-  
-- Excel Formulas
-  
-- Data Cleaning Techniques
-  
-- Dashboard Design Principles
-
-# Data Preparation
-
-- Data cleaning
-  
-- Missing value handling
-  
-- Data validation
-  
-- Data formatting
-
-# Data Analysis
-
-- Pivot Tables
-  
-- Pivot Charts
-  
-- Sorting
-  
-- Filtering
-  
-- Aggregation
-  
-- Percentage calculations
+## Overview
 
-# Dashboard Development
+I am pleased to present the **HR Analytics Dashboard**, developed using **Microsoft Excel** to analyze workforce data and employee attrition. The dashboard transforms HR data into meaningful insights, helping organizations monitor employee performance, workforce distribution, and attrition trends for better decision-making.
 
-- KPI Cards
-  
-- Interactive Slicers
-  
-- Dynamic Charts
-  
-- Professional Layout Design
+## Problem Statement
 
-# Business Analytics
-- Attrition Analysis
-  
-- Workforce Analysis
-  
-- Department Performance
-  
-- Employee Demographics
-  
-- Salary Analysis
-  
-- Employee Retention Analysis
+The objective of this project was to create an interactive HR dashboard that provides a clear understanding of employee demographics, attrition, job roles, and workforce performance. The dashboard enables HR teams to identify key trends and improve employee retention strategies.
 
-# Dashboard KPIs
+## Analysis Done
 
-The dashboard summarizes key HR performance indicators including:
+- **Data Preparation**
+  - Cleaned and organized the HR dataset for accurate analysis.
 
-1.**Total Employees**
+- **KPI Development**
+  - Calculated Total Employees, Attrition Count, Attrition Rate, and Average Age.
 
-2.**Total Attrition**
+- **Workforce Analysis**
+  - Analyzed employees by department, job role, education, and gender.
 
-3.**Attrition Rate**
+- **Attrition Analysis**
+  - Identified attrition patterns based on age, experience, salary, and job roles.
 
-4.**Active Employees**
+- **Interactive Reporting**
+  - Developed dynamic charts and filters for detailed workforce analysis.
 
-5.**Average Age**
+## Dashboard
 
-6.**Average Monthly Income**
+The dashboard provides an interactive overview of employee and attrition insights.
 
-7.**Average Years at Company**
+- **KPI Cards**
+  - Displays Total Employees, Attrition Count, Attrition Rate, and Average Age.
 
-8.**Average Job Satisfaction**
+- **Department Analysis**
+  - Compares employee distribution and attrition across departments.
 
-9.**Average Performance Rating**
+- **Job Role Analysis**
+  - Evaluates workforce strength and attrition by job role.
 
-These KPIs provide a quick overview of workforce health and organizational performance.
+- **Demographic Analysis**
+  - Analyzes employees based on age, gender, education, and marital status.
 
-# Dashboard Features
+- **Attrition Trends**
+  - Identifies patterns in employee turnover using various HR factors.
 
-The dashboard is fully interactive and allows users to filter results using slicers.
-Users can analyze employee information based on:
+- **Interactive Filters**
+  - Allows users to filter insights by department, gender, education, and job role.
 
-- Department
-  
-- Gender
-  
-- Education Field
-  
-- Job Role
-  
-- Marital Status
-  
-- Business Travel
-  
-- Overtime
-  
-- Attrition Status
-
-Interactive filtering enables quick business analysis without modifying the underlying dataset.
-
-1.**Dashboard Analysis**
-
-The dashboard provides answers to several important HR business questions.
-
-2.**Employee Attrition Analysis**
-
-Analyze employee resignations across different departments, job roles, education backgrounds, and salary levels.
-This helps HR teams identify the primary causes of employee turnover.
-
-3.**Department Analysis**
-
-Compare workforce distribution and attrition across various departments.
-This enables management to identify departments requiring retention strategies.
-
-4.**Job Role Analysis**
-
-Evaluate employee count and attrition across different job roles.
-This helps identify positions experiencing higher turnover.
-
-5.**Salary Analysis**
-
-Study the relationship between employee income and attrition.
-The analysis helps determine whether compensation influences employee retention.
-
-6.**Age Group Analysis**
-
-Understand workforce distribution across different age groups.
-This analysis identifies age categories with higher resignation rates.
-
-7.**Education Analysis**
-
-Compare employee attrition across different education fields and education levels.
-This provides insights into workforce qualifications and retention patterns.
-
-**Employee Satisfaction Analysis**
-
-Evaluate employee satisfaction using metrics such as:
-
-- Job Satisfaction
-  
-- Environment Satisfaction
-  
-- Work-Life Balance
-  
-- Job Involvement
-  
-These indicators help assess overall employee engagement.
-
-**Performance Analysis**
-
-Compare employee performance ratings across departments and job roles.
-This enables HR managers to understand workforce productivity and recognize high-performing employee groups.
-
-# Business Insights
-
-The dashboard helps answer business questions including:
-
-- Which department has the highest attrition?
-  
-- Which job role experiences maximum employee turnover?
-  
-- Which age group has the highest resignation rate?
-
-- Does monthly income affect employee retention?
-  
-- Which education field has more employee attrition?
-  
-- Which employees stay longer in the organization?
-  
-- How satisfied are employees with their jobs?
-  
-- Which workforce segments require HR intervention?
-
-# Business Value
-
-This dashboard supports HR teams by helping them:
-
-- Reduce employee attrition
-  
-- Improve employee retention strategies
-  
-- Monitor workforce performance
-  
-- Identify high-risk employee groups
-  
-- Support strategic hiring decisions
-  
-- Improve employee engagement
-  
-- Optimize HR planning
-  
-- Enable data-driven decision-making
-
-# Conclusion
+## Recommendations
+
+- **Reduce Employee Attrition**
+  - Focus on departments and job roles with higher attrition rates.
+
+- **Improve Employee Engagement**
+  - Strengthen training, recognition, and career development programs.
+
+- **Enhance Workforce Planning**
+  - Use HR insights for better hiring and resource allocation.
+
+- **Support Data-Driven HR Decisions**
+  - Monitor workforce KPIs regularly to improve employee retention and organizational performance.
+
+## Conclusion
+
+The **HR Analytics Dashboard** provides a comprehensive view of workforce performance and employee attrition. It enables HR professionals to monitor key metrics, identify workforce trends, and make informed decisions to improve employee satisfaction and retention.
 This project demonstrates how Microsoft Excel can be effectively used to solve real-world HR business problems. Through data cleaning, interactive dashboards, Pivot Tables, KPI reporting, and business analysis, the project transforms employee data into meaningful insights that support workforce planning and strategic HR decision-making.
 
 The dashboard showcases practical skills in HR Analytics, Business Analytics, Data Visualization, and Microsoft Excel, making it relevant for Business Analyst, HR Analyst, and Data Analyst roles.
 
 ## Author
-## Aarzu Bharti
+Aarzu Bharti
 
